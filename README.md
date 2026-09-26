@@ -1,221 +1,304 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0B1220&height=220&section=header&text=Lakshya%20Hooda&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20B.Tech%20CSE&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:1A0B0B,75:3A1111,100:050505&height=210&section=header&text=Lakshya%20Hooda&fontSize=50&fontColor=D4AF37&fontAlignY=40&desc=DATA%20ANALYST%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20B.TECH%20CSE&descAlignY=63&descSize=16&descColor=E8E0D0&animation=twinkling" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Data-Driven+Solutions;Developing+Modern+Full+Stack+Applications;Exploring+AI%2FML+%26+Intelligent+Systems;Turning+Ideas+Into+Practical+Products" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=850&lines=Turning+Data+Into+Meaningful+Insights;Building+Modern+Full+Stack+Applications;Exploring+AI%2FML+%26+Intelligent+Systems;Learning+%7C+Building+%7C+Improving" alt="Typing Animation"/>
 
 <br><br>
 
 <a href="https://lakshyahooda-dev.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=111111"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lakshya-hooda-84b59b302/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-8B1E1E?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/lakshyahooda-dev">
+<img src="https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=D4AF37"/>
 </a>
 
-<a href="https://github.com/lakshyahooda-dev">
-<img src="https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br><br>
+
+<img src="https://img.shields.io/badge/GGSIPU-B.Tech%20CSE-111111?style=flat-square&logoColor=D4AF37"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-Data%20%7C%20Development%20%7C%20AI-D4AF37?style=flat-square&logoColor=111111"/>
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-I'm **Lakshya Hooda**, a **B.Tech Computer Science & Engineering student at GGSIPU** with a strong interest in **Data Analytics, Full Stack Development and AI/ML**.
+## ABOUT ME
 
-I enjoy transforming data and ideas into practical solutions — from analytical dashboards and data-driven insights to responsive web applications and intelligent software systems.
+</div>
 
-My approach is simple:
+<div align="center">
 
-> **Learn continuously. Build practically. Solve real problems.**
+I'm **Lakshya Hooda**, a **B.Tech Computer Science & Engineering student at GGSIPU** focused on building practical solutions through **Data Analytics, Full Stack Development and AI/ML**.
+
+I enjoy combining **technical development, analytical thinking and problem solving** to transform ideas and data into useful digital products.
+
+<br>
+
+**Data Analytics** &nbsp; • &nbsp;
+**Full Stack Development** &nbsp; • &nbsp;
+**AI/ML** &nbsp; • &nbsp;
+**SEO** &nbsp; • &nbsp;
+**Lead Generation**
+
+</div>
 
 ---
 
-## What I Do
+<div align="center">
+
+## PROFESSIONAL FOCUS
+
+<br>
 
 <table>
 <tr>
-<td width="50%">
 
-### Data Analytics
+<td align="center" width="33%">
 
-- Python & SQL
-- Power BI dashboards
-- Advanced Excel
-- Data cleaning & analysis
-- Data visualization
-- Business insights
+### DATA ANALYTICS
 
-</td>
+<br>
 
-<td width="50%">
-
-### Full Stack Development
-
-- React & Next.js
-- Node.js & Express
-- REST APIs
-- MongoDB & MySQL
-- Responsive web applications
-- Backend development
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### AI / Machine Learning
-
-- Machine Learning
-- Deep Learning
-- CNN
-- Image Classification
-- Prompt Engineering
-- RAG
+**SQL**  
+**Python**  
+**Power BI**  
+**Advanced Excel**  
+**Data Visualization**
 
 </td>
 
-<td width="50%">
+<td align="center" width="33%">
 
-### Digital Growth
+### DEVELOPMENT
 
-- SEO
-- On-Page SEO
-- Off-Page SEO
-- Keyword Research
-- Lead Generation
-- Website Optimization
+<br>
+
+**React**  
+**Next.js**  
+**Node.js**  
+**Express**  
+**REST APIs**
 
 </td>
+
+<td align="center" width="33%">
+
+### AI / ML
+
+<br>
+
+**Machine Learning**  
+**Deep Learning**  
+**CNN**  
+**Prompt Engineering**  
+**RAG**
+
+</td>
+
 </tr>
 </table>
 
----
-
-# Technical Stack
-
-### Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
-</p>
-
-### Frontend & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express" />
-</p>
-
-### Data, Databases & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
+</div>
 
 ---
-
-# Featured Projects
-
-### Inventory Management System
-
-**Node.js • Express.js • MongoDB**
-
-A backend-focused inventory management application built to manage product data and inventory operations through structured REST APIs.
-
-**Key Focus:** REST APIs • CRUD Operations • MongoDB • Backend Architecture
-
----
-
-### Cats vs Dogs Image Classifier
-
-**Python • CNN • Deep Learning**
-
-A deep learning project that uses a Convolutional Neural Network to classify images into two categories: cats and dogs.
-
-**Key Focus:** CNN • Image Classification • Deep Learning • Python
-
----
-
-### Personal Portfolio
-
-**HTML • CSS • JavaScript**
-
-A responsive personal portfolio designed to present my technical skills, projects, experience and professional journey.
-
-<a href="https://lakshyahooda-dev.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-Visit-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
----
-
-# GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lakshyahooda-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" />
+## TECHNICAL EXPERTISE
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyahooda-dev&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+### PROGRAMMING
+
+<p>
+<img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=D4AF37"/>
+</p>
+
+### DATA & ANALYTICS
+
+<p>
+<img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Power%20BI-111111?style=flat-square&logo=powerbi&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Advanced%20Excel-111111?style=flat-square&logo=microsoftexcel&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-111111?style=flat-square&logo=chartdotjs&logoColor=D4AF37"/>
+</p>
+
+### WEB DEVELOPMENT
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Express.js-111111?style=flat-square&logo=express&logoColor=D4AF37"/>
+</p>
+
+### DATABASES & TOOLS
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visualstudiocode&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman&logoColor=D4AF37"/>
+</p>
 
 </div>
 
 ---
 
-# Current Focus
-
 <div align="center">
 
-**Data Analytics** • **SQL** • **Python** • **Power BI**  
-**Full Stack Development** • **AI/ML** • **Modern Web Technologies**
+## SELECTED PROJECTS
 
-</div>
+<br>
+
+### INVENTORY MANAGEMENT SYSTEM
+
+**Node.js · Express.js · MongoDB**
+
+A backend-focused inventory management application built around structured APIs, database operations and CRUD workflows.
+
+<br>
+
+`REST APIs` &nbsp; `CRUD Operations` &nbsp; `MongoDB` &nbsp; `Backend Development`
+
+<br><br>
 
 ---
 
-# Development Philosophy
+### CATS VS DOGS IMAGE CLASSIFIER
 
-<div align="center">
+**Python · CNN · Deep Learning**
 
-### Learn → Build → Test → Improve → Ship
+A deep learning image classification project using a **Convolutional Neural Network** to classify images into cats and dogs.
 
-I believe strong technical skills come from combining **consistent learning with real-world projects and problem solving**.
+<br>
 
-</div>
+`CNN` &nbsp; `Image Classification` &nbsp; `Deep Learning` &nbsp; `Python`
+
+<br><br>
 
 ---
 
-# Let's Connect
+### PERSONAL PORTFOLIO
 
-<div align="center">
+**HTML · CSS · JavaScript**
 
-If you're interested in **Data Analytics, Software Development, AI/ML or technology projects**, feel free to connect.
+A responsive portfolio website designed to showcase my technical skills, projects and professional journey through a modern web experience.
 
 <br>
 
 <a href="https://lakshyahooda-dev.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=111111"/>
 </a>
 
+</div>
+
+---
+
+<div align="center">
+
+## WHAT I'M BUILDING TOWARDS
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### DATA
+
+Turning raw information into **clear and actionable insights.**
+
+</td>
+
+<td align="center" width="25%">
+
+### SOFTWARE
+
+Creating **responsive and scalable applications.**
+
+</td>
+
+<td align="center" width="25%">
+
+### AI / ML
+
+Exploring **intelligent and practical systems.**
+
+</td>
+
+<td align="center" width="25%">
+
+### GROWTH
+
+Understanding **SEO and lead generation.**
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## DEVELOPMENT PHILOSOPHY
+
+<br>
+
+### THINK → BUILD → TEST → IMPROVE
+
+<br>
+
+*Good technology should solve a real problem, not simply demonstrate a technical skill.*
+
+</div>
+
+---
+
+<div align="center">
+
+## LET'S CONNECT
+
+<br>
+
+Open to connecting with **developers, recruiters, professionals and technology enthusiasts.**
+
+<br><br>
+
+<a href="https://lakshyahooda-dev.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=111111"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/lakshya-hooda-84b59b302/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-8B1E1E?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
-
+&nbsp;
 <a href="mailto:lakshyahooda@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=D4AF37"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0B1220&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:1A0B0B,75:3A1111,100:050505&height=110&section=footer&animation=twinkling" width="100%"/>
 
 </div>
