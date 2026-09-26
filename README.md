@@ -1,215 +1,188 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Project%20Name&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Modern%20%7C%20Fast%20%7C%20Professional&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,60:1E3A8A,100:2563EB&amp;height=210&amp;section=header&amp;text=Lakshya%20Hooda&amp;fontSize=52&amp;fontColor=F0F6FC&amp;fontAlignY=34&amp;desc=Data%20Analyst%20%7C%20Software%20Engineer%20%7C%20B.Tech%20CSE&amp;descAlignY=56&amp;descSize=17&amp;animation=fadeIn" width="100%" />
 
-<a href="https://github.com/yourusername/projectname">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+Project+Name;Built+for+performance+and+scale;Clean+code.+Modern+UI.+Real+impact.;Star+the+repo+if+you+like+it+%E2%AD%90" alt="Typing SVG" />
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1200&amp;color=06B6D4&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=40&amp;lines=Data+Analytics+%26+Business+Intelligence;Building+Modern+Full+Stack+Applications;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;AI%2FML+%26+Intelligent+Systems;Turning+Data+Into+Practical+Solutions" alt="Focus areas" />
+
+<br />
+<br />
+
+<a href="https://lakshyahooda-dev.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=06B6D4" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/lakshya-hooda-84b59b302/">
+  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&amp;logo=linkedin&amp;logoColor=06B6D4" alt="LinkedIn" />
+</a>
+<a href="https://github.com/lakshyahooda-dev">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=06B6D4" alt="GitHub" />
+</a>
+<a href="mailto:hoodalakshya7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&amp;logo=gmail&amp;logoColor=06B6D4" alt="Email" />
 </a>
 
-<br/>
-
-[![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)](#)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge&logo=semver&logoColor=white)](#)
-[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](#)
-[![PRs](https://img.shields.io/badge/PRs-welcome-orange?style=for-the-badge&logo=git&logoColor=white)](#)
-[![Stars](https://img.shields.io/github/stars/yourusername/projectname?style=for-the-badge&logo=github&color=yellow)](#)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
 </div>
 
----
+<br />
 
-## 🚀 Overview
+<h2 align="center">ABOUT ME</h2>
 
-**Project Name** is a modern, production-ready solution built to solve real problems with speed, clarity, and reliability.  
-It delivers a clean experience for users and a maintainable codebase for developers.
+I'm a detail-oriented **Data Analyst** and **Software Engineer** with a B.Tech in Computer Science & Engineering from Guru Gobind Singh Indraprastha University, New Delhi. My work sits at the intersection of data and software — cleaning, validating and structuring messy datasets, then building the reports, dashboards and applications that make that data actually useful.
 
-> **“Simple. Powerful. Professional.”**
+Day to day I work with **Python, SQL, Advanced Excel, Google Sheets, Power BI and MySQL**, alongside a modern web stack — **JavaScript, React.js, Next.js, Node.js and Express.js**. I've built MIS reporting systems, REST APIs and structured relational databases, and I care about the unglamorous parts: data cleaning, validation and verification are what make reporting trustworthy.
 
----
+I also bring a working knowledge of **SEO, lead generation, social media marketing and marketing analytics**, which helps me connect technical work to real business outcomes.
 
-## ✨ Features
+<h2 align="center">WHAT I DO</h2>
+
+**Data Analytics**
+
+Python · SQL · Power BI · Advanced Excel · Google Sheets · Data Cleaning · Data Validation · MIS Reporting · Exploratory Data Analysis · KPI Analysis
+
+**Software Development**
+
+Java · JavaScript · HTML5 · CSS3 · React.js · Next.js · Node.js · Express.js · REST APIs · Responsive Web Design
+
+**AI / ML**
+
+Machine Learning · Deep Learning · CNN · Prompt Engineering · RAG
+
+**Digital Growth**
+
+SEO · Lead Generation · Social Media Marketing · Marketing Analytics · KPI Tracking · Website SEO
+
+<h2 align="center">TECHNICAL SKILLS</h2>
+
+**Programming**
+
+`Python` `Java` `JavaScript` `C` `C++`
+
+**Data & Analytics**
+
+`Python` `Pandas` `NumPy` `SQL` `MySQL` `Power BI` `Advanced MS Excel` `Power Query` `Pivot Tables` `XLOOKUP` `INDEX-MATCH` `Google Sheets` `Data Cleaning` `Data Validation` `Data Verification` `MIS Reporting` `Exploratory Data Analysis`
+
+**Web Development**
+
+`HTML5` `CSS3` `Responsive Web Design` `JavaScript` `React.js` `Next.js` `Node.js` `Express.js` `REST APIs`
+
+**Databases**
+
+`MySQL` `MongoDB`
+
+**Tools**
+
+`Git` `GitHub` `VS Code` `Postman` `Agile / Scrum`
+
+**Digital Marketing**
+
+`SEO` `Lead Generation` `Social Media Marketing` `Marketing Analytics` `KPI Tracking` `Website SEO`
+
+<h2 align="center">EXPERIENCE</h2>
+
+### Data Analyst — Orchid University
+
+**Admissions & Academics** · Jul 2026 – Sep 2026
+
+- Automated recurring MIS reports and academic data logs using Excel, Google Sheets and MySQL.
+- Reduced weekly manual reporting effort by 30%.
+- Performed systematic data cleaning, validation and verification on large datasets.
+- Maintained 99%+ data accuracy.
+- Wrote and optimized relational MySQL queries for admissions conversion KPIs, application pipelines and cohort trends.
+- Collaborated with academic leaders to streamline reporting workflows and provide data-backed insights.
+
+### Full Stack Developer Intern — Seek AI
+
+Apr 2025 – Jun 2025
+
+- Developed modular responsive web pages using HTML5, CSS3 and JavaScript.
+- Implemented front-end validation logic.
+- Integrated REST API endpoints.
+- Worked in an Agile/Scrum environment.
+- Managed repository branches, code reviews and Git version-control workflows.
+
+<h2 align="center">SELECTED PROJECTS</h2>
+
+### 01 — University Admissions Management & Analytics System
+
+`Excel` `Google Sheets` `MySQL`
+
+Architected an end-to-end data pipeline that consolidates raw applicant records into structured MySQL databases. The system covers data cleaning and verification, and supports multi-parameter SQL queries across applicant demographics, admission status and batch allotments.
+
+<br />
+
+### 02 — Interactive Sales & Performance Dashboard
+
+`Python` `Pandas` `Power BI`
+
+Cleaned and validated transactional records using Python, then normalized the datasets for analysis. Built an interactive Power BI dashboard featuring dynamic KPI cards, drill-down filters, regional demand analytics and business performance visualization.
+
+<br />
+
+### 03 — Inventory Management System
+
+`Node.js` `Express.js` `MongoDB`
+
+A backend inventory management application built around structured product and inventory operations — REST APIs, CRUD functionality and MongoDB for persistent data storage.
+
+<br />
+
+### 04 — Cats vs Dogs Image Classifier
+
+`Python` `CNN` `Deep Learning`
+
+A convolutional neural network (CNN) based image classification project built to distinguish between images of cats and dogs.
+
+<br />
+
+### 05 — Personal Portfolio
+
+`HTML` `CSS` `JavaScript`
+
+My personal portfolio website — a responsive, hand-coded site presenting my work, skills and contact details.
+
+[View Live Portfolio](https://lakshyahooda-dev.github.io/Portfolio/)
+
+<h2 align="center">EDUCATION</h2>
+
+**B.Tech in Computer Science & Engineering**
+
+Guru Gobind Singh Indraprastha University (GGSIPU), New Delhi
+
+2023 – Present
+
+<h2 align="center">PROFESSIONAL STRENGTHS</h2>
+
+`Analytical Thinking` `Data Pipeline Architecture` `Root Cause Analysis` `Automated Reporting` `Data Integrity` `Business Insight Visualization` `Cross-Functional Collaboration` `SEO` `Lead Generation` `Digital Marketing`
+
+<h2 align="center">CURRENTLY FOCUSED ON</h2>
+
+`Data Analytics` `SQL` `Python` `Power BI` `Business Intelligence` `Full Stack Development` `AI/ML` `Modern Web Technologies` `SEO & Lead Generation`
+
+<h2 align="center">LET'S CONNECT</h2>
 
 <div align="center">
 
-| 🚀 Fast | 🎨 Modern UI | 🔒 Secure | 📱 Responsive | ⚡ Scalable |
-|--------|-------------|----------|--------------|------------|
-| Optimized performance | Clean design system | Best practices | Works everywhere | Ready to grow |
+I'm open to opportunities in data analytics, business intelligence and software engineering.
+
+<br />
+<br />
+
+<a href="https://lakshyahooda-dev.github.io/Portfolio/">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/lakshya-hooda-84b59b302/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://github.com/lakshyahooda-dev">GitHub</a> &nbsp;·&nbsp;
+<a href="mailto:hoodalakshya7@gmail.com">hoodalakshya7@gmail.com</a>
+
+<br />
+<br />
+
+New Delhi, India
+
+<br />
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=400&amp;size=15&amp;duration=4200&amp;pause=2400&amp;color=8B949E&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=30&amp;lines=Building+with+data.+Developing+with+purpose." alt="Building with data. Developing with purpose." />
 
 </div>
 
-- ✅ Feature 1 — short benefit
-- ✅ Feature 2 — short benefit
-- ✅ Feature 3 — short benefit
-- ✅ Feature 4 — short benefit
-- ✅ Feature 5 — short benefit
-- ✅ Easy setup and customization
-
----
-
-## 🎬 Demo
-
-<div align="center">
-
-![Demo Animation](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
-
-🔗 **Live Demo:** [https://your-demo-link.com](https://your-demo-link.com)  
-📄 **Documentation:** [https://your-docs-link.com](https://your-docs-link.com)
-
-</div>
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
----
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/projectname.git
-
-# Enter the project folder
-cd projectname
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-### 🔐 Environment Variables
-
-Create a `.env` file:
-
-```env
-PORT=3000
-DATABASE_URL=your_database_url
-API_KEY=your_api_key
-```
-
----
-
-## 🎯 Usage
-
-1. Open the app.
-2. Create an account or log in.
-3. Explore the main features.
-4. Customize as needed.
-
-```bash
-npm run start
-```
-
----
-
-## 📁 Project Structure
-
-```text
-projectname/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── utils/
-│   └── assets/
-├── .env.example
-├── package.json
-├── README.md
-└── LICENSE
-```
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="180" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🗺️ Roadmap
-
-- [x] Initial release
-- [x] Core features
-- [ ] Authentication
-- [ ] Admin dashboard
-- [ ] API documentation
-- [ ] Multi-language support
-- [ ] Mobile app
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-```bash
-git checkout -b feature/AmazingFeature
-git commit -m "Add AmazingFeature"
-git push origin feature/AmazingFeature
-```
-
-Open a Pull Request.
-
----
-
-## 📄 License
-
-Licensed under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
-
----
-
-## 👨‍💻 Author
-
-<div align="center">
-
-**Your Name**
-
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-## ⭐ Show Your Support
-
-<div align="center">
-
-If this project helped you, please give it a **star** ⭐  
-It motivates me to keep building.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer&animation=fadeIn" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,100:0D1117&amp;height=110&amp;section=footer" width="100%" />
