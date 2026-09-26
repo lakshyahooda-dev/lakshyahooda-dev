@@ -1,76 +1,68 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=210&section=header&text=Lakshya%20Hooda&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20B.Tech%20CSE&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
-<a href="https://lakshyahooda-dev.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/lakshya-hooda-84b59b302/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/lakshyahooda-dev">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Turning+Data+into+Actionable+Insights;Building+Modern+Full+Stack+Applications;Exploring+AI%2FML+%26+Intelligent+Systems;Learning+%7C+Building+%7C+Improving+Every+Day" alt="Typing Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0B1220&height=220&section=header&text=Lakshya%20Hooda&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20B.Tech%20CSE&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=lakshyahooda-dev&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Data-Driven+Solutions;Developing+Modern+Full+Stack+Applications;Exploring+AI%2FML+%26+Intelligent+Systems;Turning+Ideas+Into+Practical+Products" alt="Typing Animation"/>
+
+<br><br>
+
+<a href="https://lakshyahooda-dev.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lakshya-hooda-84b59b302/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/lakshyahooda-dev">
+<img src="https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm **Lakshya Hooda**, a B.Tech Computer Science & Engineering student at **GGSIPU**, passionate about building practical technology solutions across **Data Analytics, Full Stack Development and AI/ML**.
+I'm **Lakshya Hooda**, a **B.Tech Computer Science & Engineering student at GGSIPU** with a strong interest in **Data Analytics, Full Stack Development and AI/ML**.
 
-I enjoy working at the intersection of **data, software and business**, transforming ideas into useful dashboards, web applications and intelligent systems.
+I enjoy transforming data and ideas into practical solutions — from analytical dashboards and data-driven insights to responsive web applications and intelligent software systems.
 
-```text
-Data Analytics       →  SQL • Python • Power BI • Excel
-Full Stack           →  React • Next.js • Node.js • Express
-Programming          →  C • C++ • Java • Python • JavaScript
-Databases            →  MongoDB • MySQL
-AI / ML              →  Deep Learning • CNN • Prompt Engineering • RAG
-Digital Growth       →  SEO • Lead Generation
-Tools                →  Git • GitHub • VS Code • Postman
-```
+My approach is simple:
+
+> **Learn continuously. Build practically. Solve real problems.**
 
 ---
 
-## 🧠 What I Work On
+## What I Do
 
 <table>
 <tr>
 <td width="50%">
 
-### 📊 Data & Analytics
+### Data Analytics
 
-- Data cleaning and analysis
-- SQL-based data exploration
+- Python & SQL
 - Power BI dashboards
-- Excel-based reporting
+- Advanced Excel
+- Data cleaning & analysis
 - Data visualization
-- Extracting actionable insights
+- Business insights
 
 </td>
 
 <td width="50%">
 
-### 💻 Software Development
+### Full Stack Development
 
-- Responsive web applications
+- React & Next.js
+- Node.js & Express
 - REST APIs
-- Frontend development
+- MongoDB & MySQL
+- Responsive web applications
 - Backend development
-- Database-driven applications
-- Full Stack projects
 
 </td>
 </tr>
@@ -78,27 +70,27 @@ Tools                →  Git • GitHub • VS Code • Postman
 <tr>
 <td width="50%">
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 
-- Machine Learning fundamentals
+- Machine Learning
 - Deep Learning
-- CNN-based image classification
+- CNN
+- Image Classification
 - Prompt Engineering
-- RAG concepts
-- AI-powered applications
+- RAG
 
 </td>
 
 <td width="50%">
 
-### 📈 Digital Growth
+### Digital Growth
 
-- On-page SEO
-- Off-page SEO
-- Keyword research
-- Lead generation
-- Website optimization
-- Digital performance analysis
+- SEO
+- On-Page SEO
+- Off-Page SEO
+- Keyword Research
+- Lead Generation
+- Website Optimization
 
 </td>
 </tr>
@@ -106,21 +98,12 @@ Tools                →  Git • GitHub • VS Code • Postman
 
 ---
 
-# 🛠️ Technology Stack
+# Technical Stack
 
-### Languages
+### Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
-</p>
-
-### Data & Analytics
-
-<p>
-<img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Database%20Analysis-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-Advanced%20Analytics-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ### Frontend & Backend
@@ -129,124 +112,110 @@ Tools                →  Git • GitHub • VS Code • Postman
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express" />
 </p>
 
-### Databases & Tools
+### Data, Databases & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
 </p>
 
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 📦 Inventory Management System
+### Inventory Management System
 
 **Node.js • Express.js • MongoDB**
 
-A backend-focused inventory management application designed to handle product data and inventory operations through a structured API-driven architecture.
+A backend-focused inventory management application built to manage product data and inventory operations through structured REST APIs.
 
-**Focus:** REST APIs • Backend Development • MongoDB • CRUD Operations
+**Key Focus:** REST APIs • CRUD Operations • MongoDB • Backend Architecture
 
 ---
 
-## 🐱🐶 Cats vs Dogs Image Classifier
+### Cats vs Dogs Image Classifier
 
 **Python • CNN • Deep Learning**
 
-A deep learning image classification project that uses a Convolutional Neural Network to classify images into **Cats** and **Dogs**.
+A deep learning project that uses a Convolutional Neural Network to classify images into two categories: cats and dogs.
 
-**Focus:** CNN • Image Classification • Deep Learning • Python
+**Key Focus:** CNN • Image Classification • Deep Learning • Python
 
 ---
 
-## 🌐 Personal Portfolio
+### Personal Portfolio
 
 **HTML • CSS • JavaScript**
 
-A responsive personal portfolio designed to showcase my technical skills, projects, experience and professional journey.
+A responsive personal portfolio designed to present my technical skills, projects, experience and professional journey.
 
 <a href="https://lakshyahooda-dev.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-Visit-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lakshyahooda-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lakshyahooda-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyahooda-dev&layout=compact&hide_border=true&langs_count=8&theme=transparent"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyahooda-dev&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
 
 </div>
+
+---
+
+# Current Focus
+
+<div align="center">
+
+**Data Analytics** • **SQL** • **Python** • **Power BI**  
+**Full Stack Development** • **AI/ML** • **Modern Web Technologies**
+
+</div>
+
+---
+
+# Development Philosophy
+
+<div align="center">
+
+### Learn → Build → Test → Improve → Ship
+
+I believe strong technical skills come from combining **consistent learning with real-world projects and problem solving**.
+
+</div>
+
+---
+
+# Let's Connect
+
+<div align="center">
+
+If you're interested in **Data Analytics, Software Development, AI/ML or technology projects**, feel free to connect.
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lakshyahooda-dev&hide_border=true&theme=transparent" alt="GitHub Streak"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyahooda-dev&bg_color=00000000&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-```text
-▸ Strengthening Data Analytics & SQL
-▸ Building production-ready Full Stack applications
-▸ Improving Python & Power BI skills
-▸ Exploring AI / ML and RAG systems
-▸ Building projects that solve practical problems
-```
-
----
-
-# 🌱 Learning Philosophy
-
-> **Learn → Build → Break → Debug → Improve → Ship**
-
-I believe the best way to learn technology is by building real projects, understanding why things work, and continuously improving through practical experience.
-
----
-
-# 🤝 Let's Connect
-
-I'm open to connecting with developers, recruiters, professionals and people working on interesting technology projects.
-
-<div align="center">
-
 <a href="https://lakshyahooda-dev.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/lakshya-hooda-84b59b302/">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/lakshyahooda-dev">
-<img src="https://img.shields.io/badge/⚡%20GitHub-Explore-181717?style=for-the-badge"/>
+<a href="mailto:lakshyahooda@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-### Building with data. Developing with purpose. Learning continuously.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0B1220&height=110&section=footer" width="100%"/>
 
 </div>
