@@ -1,30 +1,30 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:1A0B0B,75:3A1111,100:050505&height=210&section=header&text=Lakshya%20Hooda&fontSize=50&fontColor=D4AF37&fontAlignY=40&desc=DATA%20ANALYST%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20B.TECH%20CSE&descAlignY=63&descSize=16&descColor=E8E0D0&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,35:160707,65:4A1111,100:050505&height=250&section=header&text=Lakshya%20Hooda&fontSize=56&fontColor=D4AF37&fontAlignY=40&desc=DATA%20ANALYST%20%7C%20SOFTWARE%20ENGINEER%20%7C%20B.TECH%20CSE&descAlignY=63&descSize=16&descColor=E8E0D0&animation=twinkling" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=850&lines=Turning+Data+Into+Meaningful+Insights;Building+Modern+Full+Stack+Applications;Exploring+AI%2FML+%26+Intelligent+Systems;Learning+%7C+Building+%7C+Improving" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=820&lines=Turning+Data+Into+Meaningful+Insights;Building+Modern+Web+Applications;Exploring+AI%2FML+%26+Intelligent+Systems;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing Animation"/>
 
 <br><br>
 
 <a href="https://lakshyahooda-dev.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/PORTFOLIO-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=111111"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/lakshya-hooda-84b59b302/">
-<img src="https://img.shields.io/badge/LINKEDIN-8B1E1E?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-8B1E1E?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/lakshyahooda-dev">
 <img src="https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=D4AF37"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/GGSIPU-B.Tech%20CSE-111111?style=flat-square&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/GGSIPU-B.Tech%20CSE-111111?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/FOCUS-Data%20%7C%20Development%20%7C%20AI-D4AF37?style=flat-square&logoColor=111111"/>
+<img src="https://img.shields.io/badge/FOCUS-Data%20%7C%20Software%20%7C%20AI-D4AF37?style=flat-square"/>
 
 </div>
 
@@ -38,17 +38,13 @@
 
 <div align="center">
 
-I'm **Lakshya Hooda**, a **B.Tech Computer Science & Engineering student at GGSIPU** focused on building practical solutions through **Data Analytics, Full Stack Development and AI/ML**.
+**B.Tech Computer Science & Engineering student at GGSIPU**
 
-I enjoy combining **technical development, analytical thinking and problem solving** to transform ideas and data into useful digital products.
+I'm focused on building practical solutions across **Data Analytics, Software Development and AI/ML**, combining analytical thinking with technical development to turn data and ideas into useful digital products.
 
 <br>
 
-**Data Analytics** &nbsp; • &nbsp;
-**Full Stack Development** &nbsp; • &nbsp;
-**AI/ML** &nbsp; • &nbsp;
-**SEO** &nbsp; • &nbsp;
-**Lead Generation**
+**Data Analytics** · **Software Development** · **AI/ML** · **SEO** · **Lead Generation**
 
 </div>
 
@@ -56,52 +52,57 @@ I enjoy combining **technical development, analytical thinking and problem solvi
 
 <div align="center">
 
-## PROFESSIONAL FOCUS
+## CORE EXPERTISE
 
 <br>
 
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### DATA ANALYTICS
+### DATA
 
-<br>
-
-**SQL**  
-**Python**  
-**Power BI**  
-**Advanced Excel**  
-**Data Visualization**
+SQL  
+Python  
+Power BI  
+Excel  
+Data Analysis
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### DEVELOPMENT
+### SOFTWARE
 
-<br>
-
-**React**  
-**Next.js**  
-**Node.js**  
-**Express**  
-**REST APIs**
+JavaScript  
+React  
+Next.js  
+Node.js  
+REST APIs
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### AI / ML
 
-<br>
+Machine Learning  
+Deep Learning  
+CNN  
+Prompt Engineering  
+RAG
 
-**Machine Learning**  
-**Deep Learning**  
-**CNN**  
-**Prompt Engineering**  
-**RAG**
+</td>
+
+<td align="center" width="25%">
+
+### GROWTH
+
+SEO  
+Lead Generation  
+Marketing Analytics  
+KPI Tracking
 
 </td>
 
@@ -114,25 +115,27 @@ I enjoy combining **technical development, analytical thinking and problem solvi
 
 <div align="center">
 
-## TECHNICAL EXPERTISE
+## TECHNICAL STACK
 
 ### PROGRAMMING
 
 <p>
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=D4AF37"/>
 </p>
 
-### DATA & ANALYTICS
+### DATA & BUSINESS INTELLIGENCE
 
 <p>
 <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/Power%20BI-111111?style=flat-square&logo=powerbi&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/Advanced%20Excel-111111?style=flat-square&logo=microsoftexcel&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-111111?style=flat-square&logo=chartdotjs&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-111111?style=flat-square&logo=googlesheets&logoColor=D4AF37"/>
 </p>
 
 ### WEB DEVELOPMENT
@@ -149,8 +152,8 @@ I enjoy combining **technical development, analytical thinking and problem solvi
 ### DATABASES & TOOLS
 
 <p>
-<img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visualstudiocode&logoColor=D4AF37"/>
@@ -163,43 +166,71 @@ I enjoy combining **technical development, analytical thinking and problem solvi
 
 <div align="center">
 
-## SELECTED PROJECTS
+# SELECTED PROJECTS
 
 <br>
 
-### INVENTORY MANAGEMENT SYSTEM
+### 01 · UNIVERSITY ADMISSIONS MANAGEMENT & ANALYTICS SYSTEM
+
+**Excel · Google Sheets · MySQL**
+
+An end-to-end admissions data system that consolidates applicant records into structured MySQL databases with data cleaning, verification and multi-parameter SQL analysis.
+
+**Focus**
+
+`Data Pipeline` · `MySQL` · `Data Cleaning` · `SQL Queries` · `Admissions Analytics`
+
+<br>
+
+---
+
+### 02 · INTERACTIVE SALES & PERFORMANCE DASHBOARD
+
+**Python · Pandas · Power BI**
+
+A data analytics project focused on cleaning and validating transactional datasets and transforming them into an interactive Power BI dashboard with KPI cards, drill-down filters and regional demand analytics.
+
+**Focus**
+
+`Python` · `Pandas` · `Power BI` · `KPI Analysis` · `Data Visualization`
+
+<br>
+
+---
+
+### 03 · INVENTORY MANAGEMENT SYSTEM
 
 **Node.js · Express.js · MongoDB**
 
-A backend-focused inventory management application built around structured APIs, database operations and CRUD workflows.
+A backend-focused inventory management application built to handle structured product and inventory operations through REST APIs and database workflows.
+
+**Focus**
+
+`Node.js` · `Express.js` · `MongoDB` · `REST APIs` · `CRUD`
 
 <br>
 
-`REST APIs` &nbsp; `CRUD Operations` &nbsp; `MongoDB` &nbsp; `Backend Development`
-
-<br><br>
-
 ---
 
-### CATS VS DOGS IMAGE CLASSIFIER
+### 04 · CATS VS DOGS IMAGE CLASSIFIER
 
 **Python · CNN · Deep Learning**
 
-A deep learning image classification project using a **Convolutional Neural Network** to classify images into cats and dogs.
+A deep learning image classification project using a Convolutional Neural Network to classify images into two categories: cats and dogs.
+
+**Focus**
+
+`Python` · `CNN` · `Deep Learning` · `Image Classification`
 
 <br>
 
-`CNN` &nbsp; `Image Classification` &nbsp; `Deep Learning` &nbsp; `Python`
-
-<br><br>
-
 ---
 
-### PERSONAL PORTFOLIO
+### 05 · PERSONAL PORTFOLIO
 
 **HTML · CSS · JavaScript**
 
-A responsive portfolio website designed to showcase my technical skills, projects and professional journey through a modern web experience.
+A responsive portfolio website created to showcase technical skills, projects, experience and professional development.
 
 <br>
 
@@ -213,47 +244,51 @@ A responsive portfolio website designed to showcase my technical skills, project
 
 <div align="center">
 
-## WHAT I'M BUILDING TOWARDS
+## PROFESSIONAL EXPERIENCE
 
 <br>
 
-<table>
-<tr>
+**DATA ANALYST INTERN · ORCHID UNIVERSITY**
 
-<td align="center" width="25%">
+*Admissions & Academics · Jul 2026 – Sep 2026*
 
-### DATA
+MIS Reporting · Data Cleaning · Data Validation · MySQL · KPI Analysis · Power BI / Excel
 
-Turning raw information into **clear and actionable insights.**
+<br><br>
 
-</td>
+**FULL STACK DEVELOPER INTERN · SEEK AI**
 
-<td align="center" width="25%">
+*Apr 2025 – Jun 2025*
 
-### SOFTWARE
+HTML5 · CSS3 · JavaScript · REST APIs · Git · Agile / Scrum
 
-Creating **responsive and scalable applications.**
+</div>
 
-</td>
+---
 
-<td align="center" width="25%">
+<div align="center">
 
-### AI / ML
+## CURRENT DIRECTION
 
-Exploring **intelligent and practical systems.**
+<br>
 
-</td>
+**Data Analytics**  
+Transforming raw data into structured insights and business intelligence.
 
-<td align="center" width="25%">
+<br>
 
-### GROWTH
+**Software Engineering**  
+Building clean, responsive and maintainable applications.
 
-Understanding **SEO and lead generation.**
+<br>
 
-</td>
+**AI / ML**  
+Exploring intelligent systems and practical machine learning applications.
 
-</tr>
-</table>
+<br>
+
+**Digital Growth**  
+Applying SEO, lead generation and analytics to improve digital performance.
 
 </div>
 
@@ -269,7 +304,7 @@ Understanding **SEO and lead generation.**
 
 <br>
 
-*Good technology should solve a real problem, not simply demonstrate a technical skill.*
+*Building is where knowledge becomes experience.*
 
 </div>
 
@@ -281,7 +316,7 @@ Understanding **SEO and lead generation.**
 
 <br>
 
-Open to connecting with **developers, recruiters, professionals and technology enthusiasts.**
+Open to connecting with **developers, recruiters, professionals and technology enthusiasts**.
 
 <br><br>
 
@@ -290,15 +325,15 @@ Open to connecting with **developers, recruiters, professionals and technology e
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/lakshya-hooda-84b59b302/">
-<img src="https://img.shields.io/badge/LINKEDIN-8B1E1E?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-8B1E1E?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:lakshyahooda@gmail.com">
+<a href="mailto:hoodalakshya7@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=D4AF37"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:1A0B0B,75:3A1111,100:050505&height=110&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:160707,65:4A1111,100:050505&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
